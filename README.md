@@ -53,7 +53,7 @@ sahil = {
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilUjgare&theme=dark&hide_border=true&background=45%2CDD4814%2CDD6B20&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFFAA&stroke=FFFFFF30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SahilUjgare&theme=dark&hide_border=true&background=45%2CDD4814%2CDD6B20&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFFAA&stroke=FFFFFF30" alt="GitHub Streak" />
 </p>
 
 ---
@@ -61,8 +61,8 @@ sahil = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilUjgare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilUjgare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilUjgare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilUjgare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="40%" />
 </p>
 
 ---
