@@ -195,7 +195,7 @@ mission       : "Turning raw data into
 
 ### ✦ Galaxy Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=SahilUjgare&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SahilUjgare&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
 
 </div>
 
