@@ -33,7 +33,7 @@ Hey there! I'm **Sahil**, a passionate Data Scientist and AI enthusiast based in
 I love transforming messy datasets into meaningful stories and building intelligent systems that make real-world impact.
 
 - 🏢 **Currently** — Data Science Intern @ Hisan Labs Pvt. Ltd.
-- 🎓 **Education** — B.Tech in Computer Science (2025)
+- 🎓 **Education** — B.Tech in Computer Science (2025).
 - 📍 **Location** — Pune, Maharashtra, India
 - 🔭 **Working on** — ML Models, LLM Pipelines & AI Agents
 - 🌱 **Learning** — Dimensional Modeling, dbt, RAG Systems
