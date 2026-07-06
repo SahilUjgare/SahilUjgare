@@ -1,159 +1,98 @@
-<!-- WARM MINIMAL — SahilUjgare GitHub Profile README -->
-<!-- FULLY AUDITED: all links, widget URLs, logo slugs verified -->
+<h1 align="center">Hi there, I'm Sahil Ujgare 👋</h1>
+<h3 align="center">Data Scientist • AI Engineer • ML Builder</h3>
 
-<!-- TOP WARM BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdf6ec,30:f4a261,60:e07a5f,100:c05621&height=180&section=header&text=Sahil%20Ujgare&fontSize=48&fontColor=fff&fontAlignY=42&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20ML%20Builder&descAlignY=64&descSize=16&descColor=fff3e0&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E07A3F&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;Building+LLM-powered+AI+Agents;Data+Science+Intern+%40+Hisan+Labs;Open+to+Work+%7C+Data+Scientist+%2F+ML+Engineer" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<div align="center">
-
-<!-- Warm typing animation — Fira Code is universally supported -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=E07A5F&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Sahil+%F0%9F%91%8B;I+craft+intelligent+data+solutions;Building+AI+that+actually+works;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br/><br/>
-
-<!-- Social Badges — all links verified -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-e07a5f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ujgare-225866267)
-[![Gmail](https://img.shields.io/badge/Gmail-c05621?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilujgare79@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8b5e52?style=flat-square&logo=github&logoColor=white)](https://github.com/SahilUjgare)
-![Visitors](https://komarev.com/ghpvc/?username=SahilUjgare&style=flat-square&color=e07a5f&label=visitors)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sahil-ujgare-225866267"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sahilujgare79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SahilUjgare"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SahilUjgare&style=for-the-badge&color=orange&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-<br/>
+### 🚀 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+I'm a **Data Scientist & AI enthusiast** based in Pune, India, passionate about transforming messy datasets into meaningful stories and building intelligent systems that create real-world impact.
 
-### 🍂 About Me
-
-Hey there! I'm **Sahil**, a passionate Data Scientist and AI enthusiast based in Pune, India.
-I love transforming messy datasets into meaningful stories and building intelligent systems that make real-world impact.
-
-- 🏢 **Currently** — Data Science Intern @ Hisan Labs Pvt. Ltd.
-- 🎓 **Education** — B.Tech in Computer Science (2025).
+- 🏢 **Currently** — Data Science Intern @ **Hisan Labs Pvt. Ltd.**, and training in Data Science & AI/ML @ **CloudBlitz, Pune**
+- 🎓 **Education** — B.Tech in Computer Science, Haribhai V. Desai College (2025)
 - 📍 **Location** — Pune, Maharashtra, India
-- 🔭 **Working on** — ML Models, LLM Pipelines & AI Agents
-- 🌱 **Learning** — Dimensional Modeling, dbt, RAG Systems
-- 💬 **Ask me about** — Python, Machine Learning, Data Analysis
-- ⚡ **Fun fact** — I debug code faster with chai ☕
-
-<br clear="right"/>
+- 🛠️ **Working on** — ML models, LLM pipelines, RAG systems & AI agents
+- 🌍 **Learning German** — targeting data roles across Europe (Germany, UK)
+- 💼 **Open to** — Data Analyst / Data Scientist / ML Engineer roles, remote & international
+- 📫 **Reach me** — [LinkedIn](https://linkedin.com/in/sahil-ujgare-225866267) · [GitHub](https://github.com/SahilUjgare)
 
 ---
 
-<br/>
+### 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,postgres,git,github,aws,gcp,azure,docker,vscode&theme=dark" />
+</p>
 
-### 🛠️ Tech Stack
-
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-e07a5f?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-c05621?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-f4a261?style=flat-square&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-6b8f71?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**ML · AI · Intelligence**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-e07a5f?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-c05621?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-8b5e52?style=flat-square&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-f4a261?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-e07a5f?style=flat-square&logo=huggingface&logoColor=white)
-
-**Tools & Platforms**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-6b8f71?style=flat-square&logo=powerbi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-c05621?style=flat-square&logo=n8n&logoColor=white)
-![Voiceflow](https://img.shields.io/badge/Voiceflow-8b5e52?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-f4a261?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-e07a5f?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-6b8f71?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+</p>
 
 ---
 
-<br/>
+### 🌟 Featured Projects
 
-<div align="center">
+| Project | Description | Tech |
+|---|---|---|
+| 🗣️ **[upstox-ai-agent-voiceflow](https://github.com/SahilUjgare/upstox-ai-agent-voiceflow)** | AI-powered customer support agent for Upstox — intent detection & smart response flows via LLM integration | Voiceflow, LLM |
+| ⚖️ **[Telegram-legal-ai-bot-n8n](https://github.com/SahilUjgare/Telegram-legal-ai-bot-n8n)** | Telegram chatbot for IPC-based legal query resolution with vector search over legal documents | n8n, OpenAI GPT, Pinecone |
+| 📊 **[Data-Analysis-Project](https://github.com/SahilUjgare/Data-Analysis-Project)** | End-to-end EDA — data cleaning, visualization & actionable insights | Python, Pandas, Matplotlib, Seaborn |
+| 🚗 **[Cars-DA-Project](https://github.com/SahilUjgare/Cars-DA-Project)** | Automotive dataset analysis — pricing, fuel type, mileage & brand trends | Python, Pandas, NumPy |
+| 🧠 **[NER-Market-Analysis-bot-OpenAI-Integration](https://github.com/SahilUjgare/NER-Market-Analysis-bot-OpenAI-Integration)** | Market analysis bot using Named Entity Recognition to extract entities from financial text | OpenAI, NER |
+| 🏗️ **[Data-Engineering-Project-2](https://github.com/SahilUjgare/Data-Engineering-Project-2)** | Scalable ETL pipeline covering ingestion, transformation, loading & orchestration | Python |
 
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=SahilUjgare&theme=dark&hide_border=true&background=fdf6ec&stroke=f4a261&ring=e07a5f&fire=c05621&currStreakNum=c05621&sideNums=8b5e52&currStreakLabel=e07a5f&sideLabels=8b5e52&dates=b0856a" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilUjgare&show_icons=true&hide_border=true&bg_color=fdf6ec&title_color=c05621&icon_color=f4a261&text_color=8b5e52&count_private=true" width="48%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilUjgare&layout=compact&hide_border=true&bg_color=fdf6ec&title_color=c05621&text_color=8b5e52" width="40%"/>
-
-</div>
+> 💡 You have 58 repos total — consider pinning your AI-Legal-Assistant, Customer Segmentation, and JD-Resume Matcher apps too if they're public, since they showcase Streamlit + GenAI skills recruiters look for.
 
 ---
 
-<br/>
+### 🏆 Certifications
 
-<div align="center">
-
-### 🌿 Featured Projects
-
-[![upstox-ai-agent-voiceflow](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilUjgare&repo=upstox-ai-agent-voiceflow&bg_color=fdf6ec&title_color=c05621&text_color=8b5e52&icon_color=f4a261&hide_border=true)](https://github.com/SahilUjgare/upstox-ai-agent-voiceflow)
-[![Telegram-legal-ai-bot-n8n](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilUjgare&repo=Telegram-legal-ai-bot-n8n&bg_color=fdf6ec&title_color=c05621&text_color=8b5e52&icon_color=f4a261&hide_border=true)](https://github.com/SahilUjgare/Telegram-legal-ai-bot-n8n)
-
-[![Data-Analysis-Project](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilUjgare&repo=Data-Analysis-Project&bg_color=fdf6ec&title_color=c05621&text_color=8b5e52&icon_color=f4a261&hide_border=true)](https://github.com/SahilUjgare/Data-Analysis-Project)
-[![NER-Market-Analysis-bot-OpenAI-Integration](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilUjgare&repo=NER-Market-Analysis-bot-OpenAI-Integration&bg_color=fdf6ec&title_color=c05621&text_color=8b5e52&icon_color=f4a261&hide_border=true)](https://github.com/SahilUjgare/NER-Market-Analysis-bot-OpenAI-Integration)
-
-[![Cars-DA-Project](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilUjgare&repo=Cars-DA-Project&bg_color=fdf6ec&title_color=c05621&text_color=8b5e52&icon_color=f4a261&hide_border=true)](https://github.com/SahilUjgare/Cars-DA-Project)
-[![Data-Engineering-Project-2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilUjgare&repo=Data-Engineering-Project-2&bg_color=fdf6ec&title_color=c05621&text_color=8b5e52&icon_color=f4a261&hide_border=true)](https://github.com/SahilUjgare/Data-Engineering-Project-2)
-
-</div>
+- ✅ Commonwealth Bank × InsightSpark — Data Analytics Job Simulation (Forage)
+- ✅ Data Science & AI/ML Training — CloudBlitz, Pune
 
 ---
 
-<br/>
+### 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SahilUjgare&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilUjgare&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilUjgare&theme=radical&hide_border=true" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilUjgare&theme=minimal&hide_border=true&bg_color=fdf6ec&color=c05621&line=f4a261&point=e07a5f" width="95%"/>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SahilUjgare&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilUjgare&theme=redical-dark&hide_border=true" />
+</p>
 
 ---
 
-<br/>
+### 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/sahil-ujgare-225866267"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SahilUjgare"><img src="https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-*"Every dataset has a story — I help it speak."*
-
-<br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c05621,50:e07a5f,100:fdf6ec&height=120&section=footer" width="100%"/>
+<p align="center"><i>💡 Open to Data Analyst / Data Scientist / ML Engineer roles — India, UK, Germany, Singapore, UAE, Canada</i></p>
