@@ -74,8 +74,8 @@ I'm a **Data Scientist & AI enthusiast** based in Pune, India, passionate about 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SahilUjgare&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilUjgare&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SahilUjgare&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilUjgare&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
