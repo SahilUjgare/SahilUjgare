@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Sahil Ujgare 👋</h1>
-<h3 align="center">Data Scientist • AI Engineer • ML Builder</h3>
+<h3 align="center">Data Analyst • AI Engineer •Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E07A3F&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;Building+LLM-powered+AI+Agents;Data+Science+Intern+%40+Hisan+Labs;Open+to+Work+%7C+Data+Scientist+%2F+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E07A3F&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;Building+LLM-powered+AI+Agents;Data+Science+Intern+%40+Hisan+Labs;Open+to+Work+%7C+Data+Scientist+%2F+Data+Analyst" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 I'm a **Data Scientist & AI enthusiast** based in Pune, India, passionate about transforming messy datasets into meaningful stories and building intelligent systems that create real-world impact.
 
 - 🏢 **Currently** — Data Science Intern @ **Hisan Labs Pvt. Ltd.**, and training in Data Science & AI/ML @ **CloudBlitz, Pune**
-- 🎓 **Education** — B.Tech in Computer Science, Haribhai V. Desai College (2025)
+- 🎓 **Education** — BSC in Computer Science, Haribhai V. Desai College (2025)
 - 📍 **Location** — Pune, Maharashtra, India
 - 🛠️ **Working on** — ML models, LLM pipelines, RAG systems & AI agents
 - 🌍 **Learning German** — targeting data roles across Europe (Germany, UK)
-- 💼 **Open to** — Data Analyst / Data Scientist / ML Engineer roles, remote & international
+- 💼 **Open to** — Data Analyst / Data Scientist / ML Engineer roles, remote, full-time & international
 - 📫 **Reach me** — [LinkedIn](https://linkedin.com/in/sahil-ujgare-225866267) · [GitHub](https://github.com/SahilUjgare)
 
 ---
