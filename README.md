@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sahil Ujgare... 👋</h1>
+<h1 align="center">Hi there, I'm Sahil Ujgare.. 👋</h1>
 <h3 align="center">Data Analyst • AI Engineer •Data Scientist</h3>
 
 <p align="center">
